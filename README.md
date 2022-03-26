@@ -1,6 +1,6 @@
-<div style="display:flex; width:fit-content; margin:0 auto 30px auto">
+<div style="display:flex; width:fit-content; margin:0 auto 30px auto;">
     <img src="tomopu.gif" width="80px">
-    <p style="font-size:25px; font-weight:bold">Welcome to Tomopu's profile!!</p>
+    <p style="font-size:25px; font-weight:bold;">Welcome to Tomopu's profile!!</p>
 </div>
 
 <h2>Environment</h2>
