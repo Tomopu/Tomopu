@@ -1,20 +1,6 @@
-<style type="text/css">
-    .flex {
-        display:flex;
-        width: fit-content;
-        margin: 0 auto 30px auto;
-    }
-    
-    .mychara {
-        width: 80px;
-
-    }
-
-</style>
-
-<div class="flex">
-    <img class="mychara" src="tomopu.gif">
-    <h2>Welcome to Tomopu's profile!!</h2>
+<div style="display:flex; width:fit-content; margin:0 auto 30px auto">
+    <img src="tomopu.gif" width="80px">
+    <p style="font-size:25px; font-weight:bold">Welcome to Tomopu's profile!!</p>
 </div>
 
 <h2>Environment</h2>
