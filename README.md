@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="tomopu.gif" width="94px"/>
+  <img src="tomopu.gif" width="120px"/>
   <img src="title.png" width="60%"/>
 </p>
 
