@@ -1,6 +1,6 @@
-<p>
-  <img src="tomopu.gif" width="20%">
-  <img src="title.png" width="60%">
+<p align="center">
+  <img src="tomopu.gif" width="20%"/>
+  <img src="title.png" width="60%"/>
 </p>
 
 <h2></h2>
