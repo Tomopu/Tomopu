@@ -1,4 +1,7 @@
-<p aligin="center"><img src="tomopu.gif" width="20%"><img src="title.png" width="60%"></p>
+<p>
+  <img src="tomopu.gif" width="20%">
+  <img src="title.png" width="60%">
+</p>
 
 <h2></h2>
 
